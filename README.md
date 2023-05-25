@@ -1,16 +1,11 @@
-<!-- <p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/73228648?v=4" , style="border-radius: 100px;">
-</p> -->
-
-<h1> 
-  Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Nathalie Nassar, a computer scientist.
-</h1>
-<p align = 'center'>
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Nathalie Nassar" /></a>
 </p>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nathalie-Nassar)
-[![Github](https://img.shields.io/github/followers/MajdAlkawaas?label=Follow&style=social)](https://github.com/MajdAlkawaas)
+[![Github](https://img.shields.io/github/followers/Nathalie-Nassar?label=Follow&style=social)](https://github.com/Nathalie-Nassar)
 
 <div size='20px'> Hi! My name is Nathalie. Welcome to GitHub Profile :smile: !
 </div>
